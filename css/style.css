@@ -1,0 +1,48 @@
+.container {
+    margin: 0 auto;
+}
+
+h1 {
+   text-align: center;
+    margin: 50px 0 50px;
+}
+
+.button {
+    padding-top: 32px;
+}
+
+.button .btn {
+    width: 100%;
+}
+
+.table-container {
+    margin-top: 50px;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+}
+
+.success {
+    color: green;
+    text-align: center;
+}
+
+.date-off {
+    color: #888;
+}
+
+.date-off a{
+    pointer-events: none;
+    cursor: default;
+    color: #888;
+}
+
+.row-info td, .row-info th {
+    vertical-align: middle;
+}
+
+.row-info td:nth-child(4)  {
+    text-align: center;
+}
